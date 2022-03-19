@@ -4,66 +4,16 @@
   
     
     <entry>
-      <title>为什么我要开始写博客</title>
-      <link href="/2022/03/19/%E4%B8%BA%E4%BB%80%E4%B9%88%E6%88%91%E8%A6%81%E5%BC%80%E5%A7%8B%E5%86%99%E5%8D%9A%E5%AE%A2/"/>
-      <url>/2022/03/19/%E4%B8%BA%E4%BB%80%E4%B9%88%E6%88%91%E8%A6%81%E5%BC%80%E5%A7%8B%E5%86%99%E5%8D%9A%E5%AE%A2/</url>
+      <title>欧拉公式——世界上最美的数学公式</title>
+      <link href="/2022/03/25/%E6%AC%A7%E6%8B%89%E5%85%AC%E5%BC%8F%E2%80%94%E2%80%94%E4%B8%96%E7%95%8C%E4%B8%8A%E6%9C%80%E7%BE%8E%E7%9A%84%E6%95%B0%E5%AD%A6%E5%85%AC%E5%BC%8F/"/>
+      <url>/2022/03/25/%E6%AC%A7%E6%8B%89%E5%85%AC%E5%BC%8F%E2%80%94%E2%80%94%E4%B8%96%E7%95%8C%E4%B8%8A%E6%9C%80%E7%BE%8E%E7%9A%84%E6%95%B0%E5%AD%A6%E5%85%AC%E5%BC%8F/</url>
       
         <content type="html"><![CDATA[]]></content>
       
       
       <categories>
           
-          <category> 博客 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 心理 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Markdown一个神级轻量级标记语言</title>
-      <link href="/2021/03/19/Markdown%E4%B8%80%E4%B8%AA%E7%A5%9E%E7%BA%A7%E8%BD%BB%E9%87%8F%E7%BA%A7%E6%A0%87%E8%AE%B0%E8%AF%AD%E8%A8%80/"/>
-      <url>/2021/03/19/Markdown%E4%B8%80%E4%B8%AA%E7%A5%9E%E7%BA%A7%E8%BD%BB%E9%87%8F%E7%BA%A7%E6%A0%87%E8%AE%B0%E8%AF%AD%E8%A8%80/</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-      
-      <categories>
-          
-          <category> 博客 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> Markdown </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Hello World，永远的开始</title>
-      <link href="/2020/03/19/Hello%20World%EF%BC%8C%E6%B0%B8%E8%BF%9C%E7%9A%84%E5%BC%80%E5%A7%8B/"/>
-      <url>/2020/03/19/Hello%20World%EF%BC%8C%E6%B0%B8%E8%BF%9C%E7%9A%84%E5%BC%80%E5%A7%8B/</url>
-      
-        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
-      
-      
-      <categories>
-          
-          <category> 博客 </category>
+          <category> 数学 </category>
           
       </categories>
       
@@ -71,6 +21,251 @@
         <tags>
             
             <tag> Hexo </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>学习开关——挖掘身体的Bug</title>
+      <link href="/2022/03/24/%E5%AD%A6%E4%B9%A0%E5%BC%80%E5%85%B3%E2%80%94%E2%80%94%E6%8C%96%E6%8E%98%E8%BA%AB%E4%BD%93%E7%9A%84Bug/"/>
+      <url>/2022/03/24/%E5%AD%A6%E4%B9%A0%E5%BC%80%E5%85%B3%E2%80%94%E2%80%94%E6%8C%96%E6%8E%98%E8%BA%AB%E4%BD%93%E7%9A%84Bug/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> 奇技淫巧 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 学习 </tag>
+            
+            <tag> 技巧 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>视频压缩（二）GAN对抗生成神经网络</title>
+      <link href="/2022/03/23/%E8%A7%86%E9%A2%91%E5%8E%8B%E7%BC%A9%EF%BC%88%E4%BA%8C%EF%BC%89GAN%E5%AF%B9%E6%8A%97%E7%94%9F%E6%88%90%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C/"/>
+      <url>/2022/03/23/%E8%A7%86%E9%A2%91%E5%8E%8B%E7%BC%A9%EF%BC%88%E4%BA%8C%EF%BC%89GAN%E5%AF%B9%E6%8A%97%E7%94%9F%E6%88%90%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> 计算机 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> deep learning </tag>
+            
+            <tag> 图片压缩 </tag>
+            
+            <tag> gan </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>视频压缩（一）MSROI多结构感兴趣区域</title>
+      <link href="/2022/03/22/%E8%A7%86%E9%A2%91%E5%8E%8B%E7%BC%A9%EF%BC%88%E4%B8%80%EF%BC%89MSROI%E5%A4%9A%E7%BB%93%E6%9E%84%E6%84%9F%E5%85%B4%E8%B6%A3%E5%8C%BA%E5%9F%9F/"/>
+      <url>/2022/03/22/%E8%A7%86%E9%A2%91%E5%8E%8B%E7%BC%A9%EF%BC%88%E4%B8%80%EF%BC%89MSROI%E5%A4%9A%E7%BB%93%E6%9E%84%E6%84%9F%E5%85%B4%E8%B6%A3%E5%8C%BA%E5%9F%9F/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> 计算机 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> deep learning </tag>
+            
+            <tag> 物体检测 </tag>
+            
+            <tag> 图片压缩 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>认知</title>
+      <link href="/2022/03/21/%E8%AE%A4%E7%9F%A5/"/>
+      <url>/2022/03/21/%E8%AE%A4%E7%9F%A5/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> 哲学 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 认知 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>价值与目标</title>
+      <link href="/2022/03/20/%E4%BB%B7%E5%80%BC%E4%B8%8E%E7%9B%AE%E6%A0%87/"/>
+      <url>/2022/03/20/%E4%BB%B7%E5%80%BC%E4%B8%8E%E7%9B%AE%E6%A0%87/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> 心理学 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 价值 </tag>
+            
+            <tag> 目标 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>为什么我要开始写博客</title>
+      <link href="/2022/03/19/%E4%B8%BA%E4%BB%80%E4%B9%88%E6%88%91%E8%A6%81%E5%BC%80%E5%A7%8B%E5%86%99%E5%8D%9A%E5%AE%A2/"/>
+      <url>/2022/03/19/%E4%B8%BA%E4%BB%80%E4%B9%88%E6%88%91%E8%A6%81%E5%BC%80%E5%A7%8B%E5%86%99%E5%8D%9A%E5%AE%A2/</url>
+      
+        <content type="html"><![CDATA[<p>我：今天是我26岁生日，我开始搭建自己的第一个BLog。<br>小白：为什么这么做？<br>我：我也常常想尝试理解自己这种开拓性行为，却苦于找不到高级、体面的解释。<br>小白：如果必须找一个最贴切的说法呢？<br>我：我想理由会有些晦涩，可能是为了与自己和解。<br>小白：和解？你是什么时候有这个想法的？<br>我：那天我坐在自北京出发的轿车后座上，我哥和母亲从山东老家开着车专程来接我回家。<br>小白：他们怎么会跑那么远去接你？<br>我：我在湖南上学的时候他们也是开车送我去的，我的家人总在我最需要的时候出现。<br>小白：真羡慕<br>我：这次是互联网裁员，我以为预算问题没有hc</p><p>，那天我坐在自北京出发的轿车后座上，我哥和母亲从山东老家开着车专程来接我回家，行李已经塞满了行李和后排，我被挤在角落里，申博 工作。思考着痛苦、折磨、焦虑充斥着我，无法排遣无处安放<br>无法劝说或承认自我平凡，但现实是我是个十足的烂人</p><p>没有博客的程序猿只是死肥宅，我会定期分享各种知识和学习感悟！</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 随笔 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 博客 </tag>
+            
+            <tag> 记录 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Markdown神级轻量标记语言</title>
+      <link href="/2022/03/18/Markdown%E8%BD%BB%E9%87%8F%E7%BA%A7%E6%A0%87%E8%AE%B0%E8%AF%AD%E8%A8%80/"/>
+      <url>/2022/03/18/Markdown%E8%BD%BB%E9%87%8F%E7%BA%A7%E6%A0%87%E8%AE%B0%E8%AF%AD%E8%A8%80/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> 计算机 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> markdown </tag>
+            
+            <tag> 编程语言 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Github全球最大同性交友平台</title>
+      <link href="/2022/03/17/Github%E5%85%A8%E7%90%83%E6%9C%80%E5%A4%A7%E5%90%8C%E6%80%A7%E4%BA%A4%E5%8F%8B%E5%B9%B3%E5%8F%B0/"/>
+      <url>/2022/03/17/Github%E5%85%A8%E7%90%83%E6%9C%80%E5%A4%A7%E5%90%8C%E6%80%A7%E4%BA%A4%E5%8F%8B%E5%B9%B3%E5%8F%B0/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> 计算机 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> github </tag>
+            
+            <tag> 代码托管 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Hexo静态博客搭建框架</title>
+      <link href="/2022/03/16/Hexo%E9%9D%99%E6%80%81%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E6%A1%86%E6%9E%B6/"/>
+      <url>/2022/03/16/Hexo%E9%9D%99%E6%80%81%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E6%A1%86%E6%9E%B6/</url>
+      
+        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 计算机 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> hexo </tag>
+            
+            <tag> 博客 </tag>
             
         </tags>
       
