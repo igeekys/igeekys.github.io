@@ -2,5 +2,5 @@
 title: 链接
 date: 
 type: "link"
-top_img: /img_tmp/5.jpg
+top_img: /img_page/16.jpg
 ---

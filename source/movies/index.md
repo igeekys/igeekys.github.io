@@ -2,5 +2,5 @@
 title: 电影
 date: 
 type: "movies"
-top_img: /img_tmp/9.jpg
+top_img: /img_page/14.jpg
 ---

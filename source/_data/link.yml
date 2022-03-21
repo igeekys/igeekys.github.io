@@ -1,23 +1,79 @@
 - class_name: 框架
   class_desc: 搭建博客的框架
   link_list:
+    - name: Github
+      link: https://github.com/
+      avatar: https://s2.loli.net/2022/03/21/dQu46sJYwbmWKkS.png
+      descr: 版本控制源代码托管服务平台
     - name: Hexo
-      link: https://hexo.io/zh-tw/
-      avatar: https://d33wubrfki0l68.cloudfront.net/6657ba50e702d84afb32fe846bed54fba1a77add/827ae/logo.svg
-      descr: 快速、简单且强大的网誌框架
+      link: https://hexo.io/
+      avatar: https://s2.loli.net/2022/03/21/sH3ZKORqrCNli9h.png
+      descr: 快速、简单且强大的网志框架 
+    - name: MarkDown
+      link: https://www.markdownguide.org/
+      avatar: https://s2.loli.net/2022/03/21/b4qdBSuMRUGQ59g.png
+      descr: 轻量级标记语言
 
-- class_name: 网站
+- class_name: 工具
+  class_desc: 负责各类模块的实用工具
+  link_list:
+    - name: Tidio
+      link: https://www.tidio.com/
+      avatar: https://s2.loli.net/2022/03/21/sS2YBlXWcfDo9Mi.png
+      descr: 一体化客户服务平台
+    - name: LeanCloud
+      link: https://leancloud.app/
+      avatar: https://s2.loli.net/2022/03/21/pZqG1ynk9UgdK7r.png
+      descr: 评论系统BaaS提供商
+    - name: SM.MS
+      link: https://sm.ms/
+      avatar: https://s2.loli.net/2022/03/21/u3sdAIhPZX9VeE8.png
+      descr: 图库托管服务平台
+
+- class_name: 功能
+  class_desc: 负责各类模块的实用工具
+  link_list:
+    - name: 百度智能云
+      link: https://cloud.baidu.com/
+      avatar: https://s2.loli.net/2022/03/21/L8IYqgevRKHbnXy.png
+      descr: 智能时代基础设施
+    - name: 音乐
+      link: https://github.com/MoePlayer/hexo-tag-aplayer
+      avatar: https://s2.loli.net/2022/03/21/3wZtYSNfmvIyhHl.png
+      descr: 音乐吸底Aplayer插件
+    - name: 搜索
+      link: https://github.com/wzpan/hexo-generator-search
+      avatar: https://s2.loli.net/2022/03/21/au6vgN14GTz7WSm.png
+      descr: 本地搜索search插件
+
+- class_name: 资源
+  class_desc: 负责各类模块的实用工具
+  link_list:
+    - name: Icon
+      link: https://fontawesome.com/
+      avatar: https://s2.loli.net/2022/03/21/q92S3nkW8LdtNoH.png
+      descr: 标准矢量图标库
+    - name: Wallroom
+      link: https://wallroom.io/
+      avatar: https://s2.loli.net/2022/03/21/Q3GUdpafF8SqWlD.png
+      descr: 超高分辨率壁纸背景库
+    - name: Zlibrary
+      link: https://zh.z-lib.org/
+      avatar: https://s2.loli.net/2022/03/21/o7amw8kd5FOcxsl.png
+      descr: 世界上最大的数字图书馆
+
+- class_name: 社交
   class_desc: 值得推荐的网站
   link_list:
     - name: Youtube
       link: https://www.youtube.com/
-      avatar: https://i.loli.net/2020/05/14/9ZkGg8v3azHJfM1.png
+      avatar: https://s2.loli.net/2022/03/21/pBs6QgWtk9oLRny.png
       descr: 丰富多彩的视频网站
     - name: Weibo
       link: https://www.weibo.com/
-      avatar: https://i.loli.net/2020/05/14/TLJBum386vcnI1P.png
-      descr: 中国最大社交分享平臺
+      avatar: https://s2.loli.net/2022/03/21/j5Ic6ubh7iQWMSK.png
+      descr: 中国最大社交分享平台
     - name: Twitter
       link: https://twitter.com/
-      avatar: https://i.loli.net/2020/05/14/5VyHPQqR6LWF39a.png
-      descr: 最喜欢的社交分享平臺
+      avatar: https://s2.loli.net/2022/03/21/xFWGvmh4iHk8zgS.png
+      descr: 最喜欢的社交分享平台
